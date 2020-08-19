@@ -19,7 +19,7 @@ import { AppSwitcherModule } from '@carbon/icons-angular';
 @NgModule({
 	declarations: [
 		AppComponent,
-		HeaderComponent
+		HeaderComponent,
 	],
 	imports: [
 		BrowserModule,
